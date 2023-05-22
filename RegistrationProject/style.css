@@ -1,0 +1,102 @@
+body{
+    background-image: url("images/landscapewallpaper.jpg");
+    padding: 0;
+    margin: 0;
+    
+    
+
+
+}
+
+section{
+    background-color: rgba(92, 14, 131, 0.854);
+    width: 35%;
+    margin: 80px auto;
+    border-radius: 4px;
+    border:5px solid aliceblue;
+    padding-bottom: 20px;
+    
+    
+}
+
+article div{
+    padding-bottom: 20px;
+    font-family:'Raleway', sans-serif;
+
+}
+
+article label{
+    margin-left: 40px;
+    color: whitesmoke;
+}
+
+article input{
+   width: 85%; 
+   padding-bottom: 5px;
+   padding-top: 5px;
+   margin-left: 40px;
+   box-sizing: none;
+   background: white;
+   border: none;
+   font-size: medium;
+   border-bottom: 1px solid yellow;
+}
+
+placeholder{
+    color: gray;
+}
+article h1{
+    text-align: center;
+    color: aliceblue;
+}
+
+article #male{
+    width: 15px;
+}
+
+article .man{
+    margin-left: 0;
+    font-family:'Raleway', sans-serif;
+}
+
+article #female{
+    width: 15px;
+    margin-left: 10px;
+}
+
+article .woman{
+    margin-left: 0;
+    font-family:'Raleway', sans-serif;
+}
+
+article .radio{
+    padding-bottom: 30px;
+    
+}
+
+article #checkbox{
+    width: 15px;
+}
+
+article .checkbox{
+    margin-left: 0;
+    font-family:'Raleway', sans-serif;
+    
+}
+
+  button{ 
+   height: 55px;
+   width: 60%;
+   font-size: 1em;
+   font-weight: 400;
+   border: none;
+   border-radius: 6px;
+   margin-left: 20%;
+   background-color: aliceblue;
+   
+    
+  
+  
+   
+  
+}
